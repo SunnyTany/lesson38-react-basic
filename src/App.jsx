@@ -8,7 +8,6 @@ function App() {
       <Button 
         text="My button" 
         placeholder="Some placeholder"
-        onClick={() => alert('Hello world!')}
         />
     </div>
   )
