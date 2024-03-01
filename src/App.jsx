@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className="app-container">
+    <div>
       <h1>Vite + React</h1>
       <Button 
         text="My button" 
